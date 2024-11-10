@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://x.com/its_vikas_bro" target="blank"><img src="https://img.shields.io/twitter/follow/its_vikas_bro?logo=twitter&style=for-the-badge" alt="vikaslokhande"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Food Delivery Web App**
 
 - 🌱 I’m currently learning **Web3 and WebDev**
 
