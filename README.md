@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web3 and WebDev**
 
-- 💬 Ask me about ** MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vickylokhande19991999@gmail.com**
 
